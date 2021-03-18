@@ -1,4 +1,3 @@
-```
 # Inter Java Developer
 <br>
 
@@ -12,4 +11,3 @@ da área e realizando diversos projetos práticos e desafios de código.
 - SO Linux Distro Ubuntu 20.04
 - IDE IntelliJ
 - Build Maven
-```
