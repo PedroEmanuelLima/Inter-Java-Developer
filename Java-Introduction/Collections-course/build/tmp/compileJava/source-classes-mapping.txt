@@ -1,0 +1,44 @@
+one/digitalinovetion/set/ExemploTreeSet.java
+ one.digitalinovetion.set.ExemploTreeSet
+one/digitalinovetion/optionals/Exercicio.java
+ one.digitalinovetion.optionals.Exercicio
+one/digitalinovetion/list/ExemploList.java
+ one.digitalinovetion.list.ExemploList
+one/digitalinovetion/set/ExemploHashSet.java
+ one.digitalinovetion.set.ExemploHashSet
+one/digitalinovetion/set/Exercicio03.java
+ one.digitalinovetion.set.Exercicio03
+one/digitalinovetion/comparators/Estudante.java
+ one.digitalinovetion.comparators.Estudante
+one/digitalinovetion/set/Exercicio04.java
+ one.digitalinovetion.set.Exercicio04
+one/digitalinovetion/optionals/ExemploOptinalPrimitivo.java
+ one.digitalinovetion.optionals.ExemploOptinalPrimitivo
+one/digitalinovetion/map/ExemploTreeMap.java
+ one.digitalinovetion.map.ExemploTreeMap
+one/digitalinovetion/queue/Exercicio02.java
+ one.digitalinovetion.queue.Exercicio02
+one/digitalinovetion/list/Exercico01.java
+ one.digitalinovetion.list.Exercico01
+one/digitalinovetion/set/Exercicio05.java
+ one.digitalinovetion.set.Exercicio05
+one/digitalinovetion/optionals/ExemploOptional.java
+ one.digitalinovetion.optionals.ExemploOptional
+one/digitalinovetion/comparators/ComparatorsExemploList.java
+ one.digitalinovetion.comparators.ComparatorsExemploList
+one/digitalinovetion/set/ExemploLinkedHashSet.java
+ one.digitalinovetion.set.ExemploLinkedHashSet
+one/digitalinovetion/map/ExemploHahMap.java
+ one.digitalinovetion.map.ExemploHahMap
+one/digitalinovetion/optionals/ExemploOptionalsEstados.java
+ one.digitalinovetion.optionals.ExemploOptionalsEstados
+one/digitalinovetion/comparators/EstudanteOrdemReversaComparators.java
+ one.digitalinovetion.comparators.EstudanteOrdemReversaComparators
+one/digitalinovetion/map/ExemploHashTable.java
+ one.digitalinovetion.map.ExemploHashTable
+one/digitalinovetion/list/ExemploVector.java
+ one.digitalinovetion.list.ExemploVector
+one/digitalinovetion/stream/ExemploStremaAPI.java
+ one.digitalinovetion.stream.ExemploStremaAPI
+one/digitalinovetion/queue/ExemploLinkedList.java
+ one.digitalinovetion.queue.ExemploLinkedList
